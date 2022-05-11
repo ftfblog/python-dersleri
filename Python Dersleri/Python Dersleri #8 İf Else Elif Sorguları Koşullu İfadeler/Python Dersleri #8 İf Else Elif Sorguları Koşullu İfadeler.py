@@ -6,32 +6,6 @@ Bu kodların yazıldığı yazıya ulaşmak için ftfblog.com/python-dersleri-8-
 
 """
 
-dictionary_degiskeni = {"ad":"ftfblog", "yaş":"1", "yer":"Türkiye"}
-
-dictionary_degiskeni2 = {"ad":"ftfblog",
-                        "yaş":"1",
-                        "yer":"Türkiye"}
-print(dictionary_degiskeni)
-print(dictionary_degiskeni2)
-
-dictionary_degiskeni3 = {"ad":"ftfblog",
-                        "yas": "1",
-                        "yer":{
-                               "ilk hedef":"Türkiye",
-                               "sonraki hedef":"tüm dünya"
-  }
-}
-print(dictionary_degiskeni3)
-
-dictionary_degiskeni= {
-    "ad":"ftfblog",
-    "yas":1,
-    "yer":{
-    "ilk hedef":"Türkiye",
-    "sonraki hedef":"tüm dünya"
-  }
-}
-
 sayı = 10
 if sayı > 9:
   print("Sayı 9'dan büyüktür.")
