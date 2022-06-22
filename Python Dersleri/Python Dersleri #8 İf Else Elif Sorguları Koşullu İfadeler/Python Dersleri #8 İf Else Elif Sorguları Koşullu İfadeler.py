@@ -2,7 +2,7 @@
 
 Bu kodlar ftfblog.com tarafından yazılmıştır. 
 Bu kodlar ftfblog.com tarafından açık kaynak kodlu olarak paylaşılmaktadır.
-Bu kodların yazıldığı yazıya ulaşmak için ftfblog.com/python-dersleri-8-if-else-elif-kosullu-ifadeler
+Bu kodların yazıldığı yazıya ulaşmak ve bu kodların ne işe yaradığını öğrenmek için ftfblog.com/python-dersleri-8-if-else-elif-kosullu-ifadeler
 
 """
 
