@@ -1,3 +1,18 @@
+"""
+
+Bu kodlar ftfblog.com tarafından yazılmıştır. 
+Bu kodlar ftfblog.com tarafından açık kaynak kodlu olarak paylaşılmaktadır.
+Bu kodların yazıldığı yazıya ulaşmak ve bu kodların ne işe yaradığını öğrenmek için ftfblog.com/python-dersleri-9-for-dongusu-kullanimi
+Bu kodlar birbirinden bağımsız olarak yazılmıştır. Bunları çalıştırmak için parça parça almanız gerekmektedir.
+
+Tüm hakları saklıdır © 2022 FTFBLOG
+Sitede yer alan tüm içerikler ftfblog.com'a aittir.
+ftfblog.com'da yer alan hiçbir içerik (yazı, fotoğraf, video vb.) izinsiz olarak kopyalanamaz, alıntı yapılamaz, başka hiç bir yerde yayınlanamaz .
+
+"""
+
+
+
 liste = ["1","2","3","4","5","6"]
 for elemanlar in liste:
       print(elemanlar)
